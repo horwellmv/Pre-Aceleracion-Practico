@@ -1,0 +1,14 @@
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\bin\Debug\net6.0\PreAcceleration.Entities.deps.json
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\bin\Debug\net6.0\PreAcceleration.Entities.runtimeconfig.json
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\bin\Debug\net6.0\PreAcceleration.Entities.dll
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\bin\Debug\net6.0\ref\PreAcceleration.Entities.dll
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\bin\Debug\net6.0\PreAcceleration.Entities.pdb
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.csproj.AssemblyReference.cache
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.AssemblyInfoInputs.cache
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.AssemblyInfo.cs
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.csproj.CoreCompileInputs.cache
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.dll
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\ref\PreAcceleration.Entities.dll
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.pdb
+C:\Users\horwe\source\repos\Pre-Aceleracion-Horwell-Murillo\PreAcceleration\PreAcceleration.Entities\obj\Debug\net6.0\PreAcceleration.Entities.genruntimeconfig.cache
