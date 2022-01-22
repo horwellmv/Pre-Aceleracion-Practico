@@ -1,16 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using PreAcceleration.HorwellMurillo.Data;
+using PreAcceleration.HorwellMurillo.Data.EfCore;
 
 namespace PreAcceleration.HorwellMurillo
 {
@@ -26,6 +22,16 @@ namespace PreAcceleration.HorwellMurillo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Este servicio (Lineas 25 a 29) esta siendo inyectado para crear la conexion a mi base de datos cada vez que se necesite, esta configurada en el 
+            //archivo appsettings.js y puedo crear tantas como necesite. esta la llamé "DefaulConection".
+            services.AddDbContext<MyDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("DefaulConection"));
+            });
+
+            services.AddScoped<UserRepository>();
+            services.AddScoped<PostRepository>();
+            services.AddScoped<CommentsRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
